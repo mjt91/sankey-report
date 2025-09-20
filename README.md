@@ -4,12 +4,12 @@ A beautiful Python application for creating interactive Sankey diagrams from CSV
 
 ## Features
 
-- <¨ Beautiful, interactive Sankey diagrams
-- =Ê Load data from CSV files
-- < Interactive browser visualization
-- =¼ Export to multiple formats (HTML, PNG, SVG, PDF)
-- <¯ Fully customizable titles, dimensions, and styling
-- =ñ Responsive design for different screen sizes
+- ðŸŽ¨ Beautiful, interactive Sankey diagrams
+- ðŸ“Š Load data from CSV files
+- ðŸŒ Interactive browser visualization
+- ðŸ’¾ Export to multiple formats (HTML, PNG, SVG, PDF)
+- âš™ï¸ Fully customizable titles, dimensions, and styling
+- ðŸ“± Responsive design for different screen sizes
 
 ## Installation
 
