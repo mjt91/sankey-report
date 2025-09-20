@@ -13,13 +13,7 @@ A beautiful Python application for creating interactive Sankey diagrams from CSV
 
 ## Installation
 
-This project uses `uv` as the package manager. First, make sure you have `uv` installed:
-
-```bash
-curl -LsSf https://astral.sh/uv/install.sh | sh
-```
-
-Then install dependencies:
+This project uses `uv` as the package manager:
 
 ```bash
 uv sync
