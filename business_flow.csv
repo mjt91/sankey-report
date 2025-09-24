@@ -1,0 +1,7 @@
+source,target,value
+Leads,Qualified,1000
+Leads,Unqualified,500
+Qualified,Opportunity,800
+Qualified,Lost,200
+Opportunity,Closed Won,300
+Opportunity,Closed Lost,500

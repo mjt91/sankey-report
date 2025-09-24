@@ -1,0 +1,6 @@
+source,target,value
+Solar,Battery,40
+Wind,Battery,30
+Battery,Home,50
+Battery,Grid,20
+Grid,Home,30

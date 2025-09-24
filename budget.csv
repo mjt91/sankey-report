@@ -1,0 +1,8 @@
+source,target,value
+Budget,Marketing,50000
+Budget,Engineering,80000
+Budget,Operations,30000
+Marketing,Digital Ads,30000
+Marketing,Events,20000
+Engineering,Development,60000
+Engineering,QA,20000
